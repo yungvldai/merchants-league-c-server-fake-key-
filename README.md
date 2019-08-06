@@ -1,1 +1,1 @@
-# merchants-league-c-server-fake-key-
+# merchants league server
